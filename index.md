@@ -2,7 +2,7 @@
 Here is a list of "Buy Now" listings from Opensea floor !
 
 
-Last auto update at: Sat Apr 30 11:35:31 UTC 2022
+Last auto update at: Sat Apr 30 11:44:10 UTC 2022
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
