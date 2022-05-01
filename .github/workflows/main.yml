@@ -52,11 +52,10 @@ jobs:
         run: |
           cat << EOF > index.md
           # Welcome fellow BMC Miners!
-          Here is a list of "Buy Now" listings from Opensea floor !\n
-          Note: This is an unofficial site ! NFA DYOR
+          Here is a list of "Buy Now" listings from Opensea floor !
           EOF
-          echo -e "\n" >> index.md
-          echo "Last auto update at: $(date)" >> index.md
+          echo -e "\nNote: This is an unofficial site ! NFA DYOR"
+          echo -e "\n\nLast auto update at: $(date)" >> index.md
           echo -e "\n" >> index.md
           cat bmc_hash_rewards.md >> index.md
       
