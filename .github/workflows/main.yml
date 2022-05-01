@@ -54,7 +54,7 @@ jobs:
           # Welcome fellow BMC Miners!
           Here is a list of "Buy Now" listings from Opensea floor !
           EOF
-          echo -e "\nNote: This is an unofficial site ! NFA DYOR"
+          echo -e "\nNote: This is an unofficial site ! NFA DYOR" >> index.md
           echo -e "\n\nLast auto update at: $(date)" >> index.md
           echo -e "\n" >> index.md
           cat bmc_hash_rewards.md >> index.md
