@@ -53,6 +53,7 @@ jobs:
           cat << EOF > index.md
           # Welcome fellow BMC Miners!
           Here is a list of "Buy Now" listings from Opensea floor !
+          Note: This is an unofficial site ! NFA DYOR
           EOF
           echo -e "\n" >> index.md
           echo "Last auto update at: $(date)" >> index.md
