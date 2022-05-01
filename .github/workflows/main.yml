@@ -52,7 +52,7 @@ jobs:
         run: |
           cat << EOF > index.md
           # Welcome fellow BMC Miners!
-          Here is a list of "Buy Now" listings from Opensea floor !
+          Here is a list of "Buy Now" listings from Opensea floor !\n
           Note: This is an unofficial site ! NFA DYOR
           EOF
           echo -e "\n" >> index.md
