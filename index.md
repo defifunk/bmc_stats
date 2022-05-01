@@ -1,9 +1,10 @@
 # Welcome fellow BMC Miners!
-Here is a list of "Buy Now" listings from Opensea floor !\n
+Here is a list of "Buy Now" listings from Opensea floor !
+
 Note: This is an unofficial site ! NFA DYOR
 
 
-Last auto update at: Sun May  1 07:05:32 UTC 2022
+Last auto update at: Sun May  1 07:11:23 UTC 2022
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
@@ -12,8 +13,8 @@ Last auto update at: Sun May  1 07:05:32 UTC 2022
 |             1954 |          0.3    |            140 |
 |             1648 |          0.3    |             20 |
 |             1887 |          0.3007 |             20 |
-|             2669 |          0.3088 |             10 |
 |              159 |          0.3088 |             10 |
+|             2669 |          0.3088 |             10 |
 |              640 |          0.3088 |             10 |
 |             1950 |          0.31   |            140 |
 |             1951 |          0.31   |            140 |
@@ -37,6 +38,6 @@ Last auto update at: Sun May  1 07:05:32 UTC 2022
 |             3537 |          0.498  |             70 |
 |             3549 |          0.499  |             70 |
 |             1512 |          0.499  |             70 |
-|             3325 |          0.5    |            930 |
+|             3295 |          0.5    |            930 |
 |             3332 |          0.5    |            930 |
 |             3327 |          0.5    |            930 |
