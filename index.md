@@ -4,7 +4,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 Note: This is an unofficial site ! NFA DYOR
 
 
-Last auto update at: Tue May  3 07:32:37 UTC 2022
+Last auto update at: Tue May  3 07:44:38 UTC 2022
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
@@ -12,7 +12,6 @@ Last auto update at: Tue May  3 07:32:37 UTC 2022
 |              263 |          0.369  |             10 |
 |             2005 |          0.37   |            120 |
 |             1387 |          0.375  |             80 |
-|             1304 |          0.38   |              0 |
 |             2183 |          0.4    |              0 |
 |              760 |          0.4    |            350 |
 |              759 |          0.415  |            350 |
@@ -33,11 +32,12 @@ Last auto update at: Tue May  3 07:32:37 UTC 2022
 |             3550 |          0.496  |             90 |
 |             1481 |          0.497  |             90 |
 |             3537 |          0.498  |             90 |
+|             3766 |          0.499  |            950 |
 |             3549 |          0.499  |             90 |
 |             1512 |          0.499  |             90 |
-|             3766 |          0.499  |            950 |
-|             3322 |          0.5    |            950 |
-|             3297 |          0.5    |            950 |
-|              503 |          0.5    |            950 |
-|             3392 |          0.5    |            950 |
-|             3325 |          0.5    |            950 |
+|              724 |          0.5    |            340 |
+|             3320 |          0.5    |            950 |
+|             3311 |          0.5    |            950 |
+|             3314 |          0.5    |            950 |
+|             3330 |          0.5    |            950 |
+|             3323 |          0.5    |            950 |
