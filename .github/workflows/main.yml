@@ -55,7 +55,8 @@ jobs:
           Here is a list of "Buy Now" listings from Opensea floor !
           EOF
           echo -e "\nNote: This is an unofficial site ! NFA DYOR" >> index.md
-          echo -e "\n\nLast auto update at: $(date)" >> index.md
+          echo -e "\nLast auto update at: $(date)" >> index.md
+          echo -e "\nDo check out a more advanced BMC dashboard on Dune: https://dune.com/defifunk/BMC-Overview-Dashboard"
           echo -e "\n" >> index.md
           cat bmc_hash_rewards.md >> index.md
       
