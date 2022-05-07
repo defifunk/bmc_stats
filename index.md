@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sat May  7 23:46:33 UTC 2022
+Last auto update at: Sat May  7 23:54:36 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -22,23 +22,23 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1884 |           0.495 |            510 |
 |              624 |           0.499 |           1000 |
 |             3330 |           0.5   |           1000 |
-|             3311 |           0.5   |           1000 |
 |             3314 |           0.5   |           1000 |
+|             3315 |           0.5   |           1000 |
 |             3322 |           0.5   |           1000 |
-|             3310 |           0.5   |           1000 |
+|             3311 |           0.5   |           1000 |
 |             3323 |           0.5   |           1000 |
 |             3324 |           0.5   |           1000 |
-|             3315 |           0.5   |           1000 |
-|             3307 |           0.5   |           1000 |
-|             3298 |           0.5   |           1000 |
+|             3317 |           0.5   |           1000 |
+|             3310 |           0.5   |           1000 |
+|             3297 |           0.5   |           1000 |
+|             2154 |           0.5   |            170 |
 |             3305 |           0.5   |           1000 |
 |             3300 |           0.5   |           1000 |
-|             3297 |           0.5   |           1000 |
 |             3325 |           0.5   |           1000 |
+|             3298 |           0.5   |           1000 |
 |             3293 |           0.5   |           1000 |
 |             3393 |           0.5   |           1000 |
 |             3392 |           0.5   |           1000 |
-|              140 |           0.5   |           1000 |
 |             3331 |           0.5   |           1000 |
-|             2154 |           0.5   |            170 |
+|             3307 |           0.5   |           1000 |
 |             3326 |           0.5   |           1000 |
