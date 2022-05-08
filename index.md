@@ -3,20 +3,22 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun May  8 07:41:27 UTC 2022
+Last auto update at: Sun May  8 07:49:07 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
+|             1792 |           0.35  |           1000 |
+|             1793 |           0.35  |           1000 |
 |             1692 |           0.4   |              0 |
 |             1845 |           0.435 |             20 |
-|             3887 |           0.44  |              0 |
 |             1085 |           0.44  |              0 |
 |              993 |           0.44  |              0 |
-|              121 |           0.44  |              0 |
 |               30 |           0.44  |              0 |
+|             3887 |           0.44  |              0 |
+|              121 |           0.44  |              0 |
 |              710 |           0.45  |              0 |
 |             1837 |           0.465 |              0 |
 |             1157 |           0.494 |             10 |
@@ -27,18 +29,16 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3317 |           0.5   |           1000 |
 |             3324 |           0.5   |           1000 |
 |             3315 |           0.5   |           1000 |
-|             3311 |           0.5   |           1000 |
 |             3307 |           0.5   |           1000 |
 |             2154 |           0.5   |            170 |
-|             3330 |           0.5   |           1000 |
+|             3393 |           0.5   |           1000 |
 |             3298 |           0.5   |           1000 |
 |             3293 |           0.5   |           1000 |
 |             3325 |           0.5   |           1000 |
-|             3393 |           0.5   |           1000 |
 |             3392 |           0.5   |           1000 |
 |             4156 |           0.5   |              0 |
-|              140 |           0.5   |           1000 |
 |             3332 |           0.5   |           1000 |
 |             3331 |           0.5   |           1000 |
+|             3330 |           0.5   |           1000 |
 |             3300 |           0.5   |           1000 |
 |             3326 |           0.5   |           1000 |
