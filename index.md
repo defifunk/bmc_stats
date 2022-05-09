@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Mon May  9 22:34:34 UTC 2022
+Last auto update at: Mon May  9 22:47:08 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,7 +11,6 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |             1845 |          0.395  |             30 |
-|              624 |          0.4233 |           1010 |
 |             1884 |          0.47   |            530 |
 |             1157 |          0.489  |              0 |
 |              710 |          0.49   |             20 |
@@ -26,13 +25,13 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3300 |          0.5    |           1010 |
 |             1889 |          0.5    |           1010 |
 |             3293 |          0.5    |           1010 |
-|             3326 |          0.5    |           1010 |
 |             2519 |          0.5    |           1010 |
 |              195 |          0.5    |              0 |
 |             3393 |          0.5    |           1010 |
 |             3392 |          0.5    |           1010 |
 |             3331 |          0.5    |           1010 |
 |             3325 |          0.5    |           1010 |
+|             3326 |          0.5    |           1010 |
 |             1158 |          0.549  |              0 |
 |             3766 |          0.55   |           1010 |
 |             2085 |          0.55   |           1010 |
@@ -42,3 +41,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              790 |          0.65   |            490 |
 |             1149 |          0.65   |           1010 |
 |             1748 |          0.66   |            420 |
+|              594 |          0.67   |            530 |
