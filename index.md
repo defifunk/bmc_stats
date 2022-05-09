@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Mon May  9 04:52:19 UTC 2022
+Last auto update at: Mon May  9 05:17:04 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -12,27 +12,27 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |-----------------:|----------------:|---------------:|
 |             1692 |           0.4   |             10 |
 |             1845 |           0.435 |             30 |
-|             4197 |           0.45  |              0 |
 |              993 |           0.45  |             10 |
-|              121 |           0.45  |             10 |
-|             1085 |           0.45  |             10 |
 |               30 |           0.45  |             10 |
+|             1085 |           0.45  |             10 |
+|              121 |           0.45  |             10 |
+|             4197 |           0.45  |              0 |
 |             4156 |           0.48  |             10 |
 |             4198 |           0.49  |              0 |
 |             1157 |           0.494 |             10 |
 |             1884 |           0.495 |            520 |
 |              624 |           0.499 |           1010 |
+|             3322 |           0.5   |           1010 |
+|             3317 |           0.5   |           1010 |
 |             3315 |           0.5   |           1010 |
 |             3314 |           0.5   |           1010 |
 |             3311 |           0.5   |           1010 |
 |             2154 |           0.5   |            180 |
-|             3322 |           0.5   |           1010 |
 |             3305 |           0.5   |           1010 |
-|             3317 |           0.5   |           1010 |
 |             3330 |           0.5   |           1010 |
-|             3293 |           0.5   |           1010 |
 |             3298 |           0.5   |           1010 |
 |             3325 |           0.5   |           1010 |
+|             3293 |           0.5   |           1010 |
 |              195 |           0.5   |           1010 |
 |             3393 |           0.5   |           1010 |
 |             3392 |           0.5   |           1010 |
@@ -41,4 +41,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3300 |           0.5   |           1010 |
 |             3326 |           0.5   |           1010 |
 |             3766 |           0.55  |           1010 |
-|             2085 |           0.55  |           1010 |
+|             2549 |           0.55  |             50 |
