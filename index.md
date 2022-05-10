@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue May 10 11:31:37 UTC 2022
+Last auto update at: Tue May 10 11:41:47 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -21,24 +21,24 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3315 |           0.5   |           1020 |
 |             3322 |           0.5   |           1020 |
 |             3314 |           0.5   |           1020 |
-|             3293 |           0.5   |           1020 |
+|             1889 |           0.5   |           1020 |
 |             3311 |           0.5   |           1020 |
 |             2154 |           0.5   |            190 |
 |             3305 |           0.5   |           1020 |
 |             3300 |           0.5   |           1020 |
-|             1889 |           0.5   |           1020 |
 |             3330 |           0.5   |           1020 |
 |             3326 |           0.5   |           1020 |
 |             3325 |           0.5   |           1020 |
 |             3392 |           0.5   |           1020 |
+|             3766 |           0.5   |           1020 |
 |             3331 |           0.5   |           1020 |
-|             3766 |           0.55  |           1020 |
+|             3293 |           0.5   |           1020 |
 |             2085 |           0.55  |           1020 |
 |             2549 |           0.55  |             60 |
 |             1149 |           0.65  |           1020 |
 |             1748 |           0.66  |            420 |
 |             1732 |           0.68  |            420 |
 |             1735 |           0.69  |            420 |
-|             1736 |           0.7   |            420 |
-|              705 |           0.7   |           1020 |
 |             2767 |           0.7   |             10 |
+|             4196 |           0.7   |            160 |
+|             1736 |           0.7   |            420 |
