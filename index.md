@@ -3,21 +3,20 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue May 10 08:15:53 UTC 2022
+Last auto update at: Tue May 10 08:51:19 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|              342 |           0.394 |             30 |
 |             1845 |           0.395 |             40 |
 |             1157 |           0.469 |             10 |
 |             1884 |           0.47  |            530 |
 |              624 |           0.475 |              0 |
 |             1158 |           0.488 |             10 |
 |              195 |           0.489 |              0 |
-|              710 |           0.49  |             20 |
+|              710 |           0.49  |             30 |
 |             3317 |           0.5   |           1020 |
 |             3315 |           0.5   |           1020 |
 |             3322 |           0.5   |           1020 |
@@ -28,11 +27,11 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3305 |           0.5   |           1020 |
 |             3300 |           0.5   |           1020 |
 |             3330 |           0.5   |           1020 |
+|             3326 |           0.5   |           1020 |
 |             3325 |           0.5   |           1020 |
 |             3392 |           0.5   |           1020 |
 |             3331 |           0.5   |           1020 |
 |             3293 |           0.5   |           1020 |
-|             3326 |           0.5   |           1020 |
 |             3766 |           0.55  |           1020 |
 |             2085 |           0.55  |           1020 |
 |             2549 |           0.55  |             60 |
@@ -40,5 +39,6 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1748 |           0.66  |            420 |
 |             1732 |           0.68  |            420 |
 |             1735 |           0.69  |            420 |
+|             2767 |           0.7   |             10 |
 |             4196 |           0.7   |            150 |
 |              705 |           0.7   |           1020 |
