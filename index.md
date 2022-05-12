@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Thu May 12 17:55:47 UTC 2022
+Last auto update at: Thu May 12 18:15:48 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -17,28 +17,28 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              195 |           0.487 |             30 |
 |             3300 |           0.5   |           1040 |
 |             3322 |           0.5   |           1040 |
-|             2549 |           0.5   |             90 |
 |             3317 |           0.5   |           1040 |
+|             2549 |           0.5   |             90 |
 |             3315 |           0.5   |           1040 |
 |             2416 |           0.5   |             10 |
 |             3311 |           0.5   |           1040 |
 |             2154 |           0.5   |            210 |
-|             3689 |           0.5   |           1040 |
 |              740 |           0.5   |           1040 |
 |             3326 |           0.5   |           1040 |
+|             2717 |           0.5   |           1040 |
 |             3392 |           0.5   |           1040 |
 |             3766 |           0.5   |           1040 |
-|             2717 |           0.5   |           1040 |
 |             1149 |           0.65  |           1040 |
 |             1748 |           0.66  |            440 |
 |             1732 |           0.68  |            440 |
 |             1735 |           0.69  |            440 |
 |             2767 |           0.7   |             40 |
-|             4196 |           0.7   |            180 |
 |             1736 |           0.7   |            440 |
+|             4196 |           0.7   |            180 |
 |              705 |           0.7   |           1040 |
 |             1046 |           0.737 |           1040 |
 |             1519 |           0.777 |           1040 |
 |              105 |           0.79  |             20 |
-|             2224 |           0.8   |           1040 |
 |             2200 |           0.8   |            940 |
+|             2224 |           0.8   |           1040 |
+|              252 |           0.888 |            960 |
