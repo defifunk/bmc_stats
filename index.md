@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri May 13 11:40:07 UTC 2022
+Last auto update at: Fri May 13 11:47:52 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -14,7 +14,6 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1157 |          0.439  |             40 |
 |             1897 |          0.44   |              0 |
 |             1896 |          0.44   |              0 |
-|             1884 |          0.44   |            560 |
 |             1158 |          0.483  |             40 |
 |              195 |          0.484  |             30 |
 |             3832 |          0.485  |             30 |
@@ -27,13 +26,13 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3300 |          0.5    |           1050 |
 |              993 |          0.5    |             50 |
 |             3326 |          0.5    |           1050 |
-|             3322 |          0.5    |           1050 |
 |             3392 |          0.5    |           1050 |
 |             1085 |          0.5    |             50 |
 |             3766 |          0.5    |           1050 |
 |               30 |          0.5    |             50 |
 |             2717 |          0.5    |           1050 |
 |             1046 |          0.5    |           1050 |
+|             3322 |          0.5    |           1050 |
 |               28 |          0.599  |           1050 |
 |             1748 |          0.66   |            450 |
 |             1732 |          0.68   |            450 |
@@ -42,3 +41,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             4196 |          0.7    |            190 |
 |              705 |          0.7    |           1050 |
 |             2767 |          0.7    |             40 |
+|             1519 |          0.777  |           1050 |
