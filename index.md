@@ -3,14 +3,13 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sat May 14 01:09:38 UTC 2022
+Last auto update at: Sat May 14 03:31:14 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|             1085 |           0.4   |             60 |
 |             1885 |           0.404 |              0 |
 |             2075 |           0.43  |              0 |
 |              642 |           0.45  |             70 |
@@ -20,25 +19,26 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2416 |           0.5   |             20 |
 |             3311 |           0.5   |           1060 |
 |             2154 |           0.5   |            230 |
-|             3300 |           0.5   |           1060 |
 |             3326 |           0.5   |           1060 |
-|             3392 |           0.5   |           1060 |
-|             1046 |           0.5   |           1060 |
 |             3766 |           0.5   |           1060 |
 |             2717 |           0.5   |           1060 |
+|             3392 |           0.5   |           1060 |
 |               28 |           0.599 |           1060 |
 |             1009 |           0.66  |           1060 |
 |             1748 |           0.66  |            460 |
 |             1732 |           0.68  |            460 |
 |              390 |           0.69  |             70 |
 |             1735 |           0.69  |            460 |
-|             2767 |           0.7   |             50 |
-|             1736 |           0.7   |            460 |
 |              705 |           0.7   |           1060 |
 |             4196 |           0.7   |            190 |
+|             2767 |           0.7   |             50 |
+|             1736 |           0.7   |            460 |
 |             1519 |           0.777 |           1060 |
 |              105 |           0.79  |             30 |
 |              710 |           0.79  |             60 |
 |             2200 |           0.8   |            950 |
 |             1955 |           0.888 |           1060 |
 |              252 |           0.888 |            970 |
+|             1957 |           0.888 |           1060 |
+|              208 |           0.9   |            230 |
+|             2160 |           0.99  |           1060 |
