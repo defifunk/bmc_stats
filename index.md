@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun May 15 19:10:20 UTC 2022
+Last auto update at: Sun May 15 19:24:33 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -21,13 +21,13 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2717 |           0.5   |           1070 |
 |             2154 |           0.5   |            240 |
 |             3262 |           0.59  |           1070 |
-|             1748 |           0.66  |            470 |
-|             1732 |           0.68  |            470 |
+|             1748 |           0.66  |            480 |
+|             1732 |           0.68  |            480 |
 |              390 |           0.69  |             90 |
-|             1735 |           0.69  |            470 |
+|             1735 |           0.69  |            480 |
 |             1793 |           0.69  |              0 |
 |              705 |           0.7   |           1070 |
-|             1736 |           0.7   |            470 |
+|             1736 |           0.7   |            480 |
 |             2767 |           0.7   |             70 |
 |             4196 |           0.7   |            210 |
 |             1439 |           0.7   |           1070 |
@@ -36,9 +36,9 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              710 |           0.79  |             80 |
 |             2200 |           0.8   |            970 |
 |              252 |           0.888 |            990 |
-|              208 |           0.9   |            240 |
 |             3409 |           0.9   |           1070 |
+|              208 |           0.9   |            240 |
 |             2160 |           0.99  |           1070 |
-|              314 |           1     |           1070 |
-|             2155 |           1     |            240 |
-|             2958 |           1     |             10 |
+|             2736 |           1     |           1070 |
+|             1529 |           1     |            560 |
+|              222 |           1     |           1070 |
