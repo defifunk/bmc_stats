@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun May 15 07:54:18 UTC 2022
+Last auto update at: Sun May 15 08:15:06 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -14,13 +14,13 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              642 |           0.449 |             80 |
 |              993 |           0.45  |             70 |
 |             1085 |           0.45  |             70 |
+|             3322 |           0.5   |           1070 |
+|              121 |           0.5   |             70 |
+|             3311 |           0.5   |           1070 |
+|             2154 |           0.5   |            240 |
 |             3392 |           0.5   |           1070 |
 |             3326 |           0.5   |           1070 |
-|             2154 |           0.5   |            240 |
 |             3766 |           0.5   |           1070 |
-|             3311 |           0.5   |           1070 |
-|              121 |           0.5   |             70 |
-|             3322 |           0.5   |           1070 |
 |             2717 |           0.5   |           1070 |
 |             1748 |           0.66  |            470 |
 |             1732 |           0.68  |            470 |
@@ -31,14 +31,14 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              705 |           0.7   |           1070 |
 |             2767 |           0.7   |             60 |
 |             1519 |           0.777 |           1070 |
-|              710 |           0.79  |             70 |
 |              105 |           0.79  |             50 |
+|              710 |           0.79  |             70 |
 |             2200 |           0.8   |            960 |
 |              252 |           0.888 |            990 |
 |              208 |           0.9   |            240 |
 |             2160 |           0.99  |           1070 |
-|             3401 |           1     |           1070 |
+|             1483 |           1     |              0 |
+|              314 |           1     |           1070 |
+|             2155 |           1     |            240 |
+|             1549 |           1     |           1070 |
 |             2736 |           1     |           1070 |
-|             2070 |           1     |           1070 |
-|             1529 |           1     |            560 |
-|             3327 |           1     |              0 |
