@@ -3,22 +3,22 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Mon May 16 14:13:16 UTC 2022
+Last auto update at: Mon May 16 14:33:20 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|             1322 |          0.6    |              0 |
+|             3833 |          0.59   |             60 |
+|             3831 |          0.59   |             60 |
+|             1091 |          0.59   |             60 |
+|             1322 |          0.6    |             10 |
 |             4193 |          0.62   |             20 |
+|             1085 |          0.63   |             80 |
 |             1845 |          0.635  |              0 |
 |             1383 |          0.64   |              0 |
-|              710 |          0.649  |             90 |
 |             1149 |          0.65   |              0 |
-|             3833 |          0.65   |             60 |
-|             3831 |          0.65   |             60 |
-|             1091 |          0.65   |             60 |
 |             1748 |          0.66   |            480 |
 |             1732 |          0.68   |            480 |
 |              390 |          0.69   |            100 |
@@ -32,13 +32,13 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1519 |          0.777  |           1080 |
 |             3298 |          0.785  |              0 |
 |             3263 |          0.79   |            660 |
+|              710 |          0.79   |             90 |
 |             2200 |          0.8    |            980 |
 |              252 |          0.888  |           1000 |
-|              208 |          0.9    |            250 |
 |             3261 |          0.9    |           1080 |
+|              208 |          0.9    |            250 |
 |             3880 |          0.95   |              0 |
 |             3409 |          0.98   |           1080 |
 |             2160 |          0.99   |           1080 |
 |             2155 |          1      |            250 |
-|              314 |          1      |           1080 |
-|             1890 |          1      |           1080 |
+|             1888 |          1      |           1080 |
