@@ -3,14 +3,13 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Mon May 16 04:17:58 UTC 2022
+Last auto update at: Mon May 16 04:53:42 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|             2075 |           0.44  |              0 |
 |              993 |           0.45  |             80 |
 |             1425 |           0.49  |              0 |
 |              121 |           0.5   |             80 |
@@ -18,7 +17,7 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1732 |           0.68  |            480 |
 |             3322 |           0.69  |           1080 |
 |             1735 |           0.69  |            480 |
-|              390 |           0.69  |             90 |
+|              390 |           0.69  |            100 |
 |             2717 |           0.69  |           1080 |
 |             3392 |           0.69  |           1080 |
 |             1439 |           0.7   |           1080 |
@@ -34,11 +33,12 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              208 |           0.9   |            250 |
 |             3409 |           0.98  |           1080 |
 |             2160 |           0.99  |           1080 |
+|              222 |           1     |           1080 |
 |             1888 |           1     |           1080 |
-|             1890 |           1     |           1080 |
 |              314 |           1     |           1080 |
+|             1890 |           1     |           1080 |
+|             2736 |           1     |           1080 |
 |             2155 |           1     |            250 |
 |             2070 |           1     |           1080 |
 |             1529 |           1     |            570 |
-|              222 |           1     |           1080 |
 |             3401 |           1     |           1080 |
