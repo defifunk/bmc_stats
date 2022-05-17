@@ -3,13 +3,15 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue May 17 00:55:04 UTC 2022
+Last auto update at: Tue May 17 02:59:01 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
+|             1149 |          0.5    |              0 |
+|              782 |          0.51   |             10 |
 |             1091 |          0.52   |             60 |
 |             3833 |          0.52   |             60 |
 |             3831 |          0.52   |             60 |
@@ -24,21 +26,19 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1322 |          0.6    |             10 |
 |               22 |          0.62   |              0 |
 |             4193 |          0.62   |             20 |
-|             1845 |          0.635  |              0 |
 |             1383 |          0.64   |              0 |
 |              710 |          0.649  |             90 |
-|             1149 |          0.65   |              0 |
 |             1748 |          0.66   |            490 |
 |             1732 |          0.68   |            490 |
 |              390 |          0.69   |            100 |
 |             1735 |          0.69   |            490 |
+|              339 |          0.69   |              0 |
 |             1506 |          0.69   |            610 |
-|             1581 |          0.6907 |              0 |
+|             1083 |          0.7    |              0 |
 |             2767 |          0.7    |             80 |
 |             1736 |          0.7    |            490 |
-|             1083 |          0.7    |              0 |
 |             2432 |          0.75   |            720 |
 |             1519 |          0.777  |           1090 |
-|             4427 |          0.777  |              0 |
 |             3298 |          0.785  |             10 |
 |             2200 |          0.8    |            980 |
+|             1581 |          0.82   |              0 |
