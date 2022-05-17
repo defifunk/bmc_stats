@@ -3,13 +3,14 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue May 17 18:51:47 UTC 2022
+Last auto update at: Tue May 17 18:58:57 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
+|              674 |          0.47   |              0 |
 |             3730 |          0.4729 |              0 |
 |             1329 |          0.473  |              0 |
 |             3673 |          0.475  |              0 |
@@ -26,8 +27,8 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              513 |          0.545  |             10 |
 |              685 |          0.569  |              0 |
 |              710 |          0.59   |            100 |
-|             2689 |          0.6    |              0 |
 |             1322 |          0.6    |             20 |
+|             2689 |          0.6    |              0 |
 |             4193 |          0.62   |             30 |
 |             1383 |          0.64   |             10 |
 |             1506 |          0.65   |            620 |
@@ -36,9 +37,8 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1732 |          0.68   |            490 |
 |             1735 |          0.69   |            490 |
 |              390 |          0.69   |            110 |
-|             1736 |          0.7    |            490 |
-|             1083 |          0.7    |             10 |
-|             1594 |          0.7    |              0 |
 |             2432 |          0.7    |            730 |
+|             1736 |          0.7    |            490 |
+|             1594 |          0.7    |              0 |
+|             1083 |          0.7    |             10 |
 |             2654 |          0.74   |           1090 |
-|             3918 |          0.75   |           1090 |
