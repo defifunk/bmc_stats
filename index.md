@@ -3,17 +3,16 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Wed May 18 03:45:17 UTC 2022
+Last auto update at: Wed May 18 04:15:24 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|             3736 |          0.38   |             10 |
+|             3730 |          0.3949 |             10 |
+|             3735 |          0.3949 |             10 |
 |             3728 |          0.395  |             10 |
-|             3730 |          0.4099 |             10 |
-|             3735 |          0.4099 |             10 |
 |              296 |          0.464  |              0 |
 |              159 |          0.4645 |             20 |
 |              674 |          0.47   |             10 |
@@ -29,15 +28,16 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3345 |          0.523  |             10 |
 |             2767 |          0.54   |             90 |
 |              513 |          0.545  |             10 |
-|             2076 |          0.55   |            110 |
 |             4123 |          0.55   |             20 |
+|             2076 |          0.55   |            110 |
 |              685 |          0.569  |             10 |
 |              710 |          0.59   |            100 |
 |             1322 |          0.6    |             20 |
 |             4193 |          0.62   |             30 |
 |             1383 |          0.64   |             10 |
-|             2687 |          0.65   |             10 |
+|             3918 |          0.65   |           1100 |
 |             1506 |          0.65   |            620 |
+|             2687 |          0.65   |             10 |
 |             1748 |          0.66   |            500 |
 |             1732 |          0.68   |            500 |
 |             1735 |          0.69   |            500 |
