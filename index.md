@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Wed May 18 10:14:05 UTC 2022
+Last auto update at: Wed May 18 10:38:29 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,11 +11,12 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |             3735 |          0.3918 |             10 |
+|             2765 |          0.3918 |              0 |
 |             3730 |          0.3919 |             10 |
 |             3831 |          0.393  |             80 |
 |             1091 |          0.393  |             80 |
 |             3833 |          0.393  |             80 |
-|              296 |          0.394  |              0 |
+|              296 |          0.394  |             10 |
 |             3728 |          0.395  |             10 |
 |              159 |          0.4645 |             20 |
 |              674 |          0.47   |             10 |
@@ -33,12 +34,11 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1322 |          0.6    |             20 |
 |             4193 |          0.62   |             40 |
 |             1383 |          0.64   |             20 |
-|             2687 |          0.65   |             10 |
 |             3918 |          0.65   |           1100 |
+|             2687 |          0.65   |             10 |
 |             1748 |          0.66   |            500 |
 |             1732 |          0.68   |            500 |
 |             1735 |          0.69   |            500 |
 |              390 |          0.69   |            120 |
-|             1736 |          0.7    |            500 |
-|             1594 |          0.7    |             10 |
 |             1083 |          0.7    |             10 |
+|             1594 |          0.7    |             10 |
