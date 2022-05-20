@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri May 20 18:46:58 UTC 2022
+Last auto update at: Fri May 20 19:38:27 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -13,17 +13,17 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2984 |          0.28   |             40 |
 |             3733 |          0.389  |             30 |
 |             2765 |          0.3918 |             20 |
-|             3831 |          0.393  |            100 |
 |             1091 |          0.393  |            100 |
+|             3831 |          0.393  |            100 |
 |             3833 |          0.393  |            100 |
 |             4428 |          0.397  |             30 |
 |             1085 |          0.44   |            130 |
 |              639 |          0.45   |             10 |
 |              674 |          0.47   |             30 |
 |             2432 |          0.49   |              0 |
-|             1506 |          0.5    |              0 |
 |              209 |          0.5    |             10 |
 |             1648 |          0.5    |             10 |
+|             1506 |          0.5    |              0 |
 |             4123 |          0.51   |             50 |
 |             3345 |          0.523  |             40 |
 |              513 |          0.545  |             40 |
@@ -34,11 +34,11 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1322 |          0.6    |              0 |
 |             1383 |          0.64   |             40 |
 |             1316 |          0.65   |             50 |
-|             1748 |          0.66   |            520 |
-|             1732 |          0.68   |            520 |
-|             1735 |          0.69   |            520 |
+|             1748 |          0.66   |            530 |
+|             1732 |          0.68   |            530 |
 |              390 |          0.69   |            140 |
+|             1735 |          0.69   |            530 |
 |             4135 |          0.6969 |              0 |
-|             1594 |          0.7    |             30 |
+|              502 |          0.7    |             30 |
 |             1083 |          0.7    |             40 |
-|             1736 |          0.7    |            520 |
+|             1736 |          0.7    |            530 |
