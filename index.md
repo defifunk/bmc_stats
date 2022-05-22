@@ -3,31 +3,29 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun May 22 21:11:19 UTC 2022
+Last auto update at: Sun May 22 21:40:00 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|             2765 |          0.3918 |             40 |
-|             1507 |          0.393  |             50 |
 |              639 |          0.45   |             30 |
 |             4139 |          0.45   |            220 |
 |              624 |          0.455  |             70 |
 |             3831 |          0.459  |            120 |
-|             3833 |          0.459  |            120 |
 |             1091 |          0.459  |            120 |
+|             3833 |          0.459  |            120 |
 |              390 |          0.469  |             10 |
-|              674 |          0.47   |             50 |
 |             1519 |          0.47   |           1140 |
-|             3335 |          0.49   |           1140 |
+|              674 |          0.47   |             50 |
 |             2432 |          0.49   |             30 |
+|             3335 |          0.49   |           1140 |
 |              209 |          0.5    |             30 |
+|             4383 |          0.5    |             60 |
 |              241 |          0.5    |             50 |
 |             1648 |          0.5    |             30 |
 |             1506 |          0.5    |             30 |
-|             4383 |          0.5    |             60 |
 |             3345 |          0.523  |             60 |
 |             3132 |          0.54   |           1140 |
 |              513 |          0.545  |             60 |
@@ -41,4 +39,6 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1748 |          0.66   |            550 |
 |             1732 |          0.68   |            550 |
 |             1735 |          0.69   |            550 |
-|             3114 |          0.7    |           1140 |
+|             1736 |          0.7    |            550 |
+|             1083 |          0.7    |             60 |
+|             1594 |          0.7    |             50 |
