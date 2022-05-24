@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue May 24 14:03:12 UTC 2022
+Last auto update at: Tue May 24 14:28:21 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,8 +11,8 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |             1403 |           0.41  |              0 |
-|              412 |           0.42  |             30 |
 |             2340 |           0.42  |             30 |
+|              412 |           0.42  |             30 |
 |              414 |           0.42  |             30 |
 |              674 |           0.44  |             70 |
 |             1445 |           0.455 |             90 |
@@ -21,11 +21,11 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2432 |           0.49  |             40 |
 |             3335 |           0.49  |           1160 |
 |             1506 |           0.49  |             40 |
-|             4307 |           0.5   |             30 |
-|              868 |           0.5   |             30 |
 |              209 |           0.5   |             40 |
+|             4307 |           0.5   |             30 |
 |             1511 |           0.5   |             30 |
 |             2550 |           0.5   |             30 |
+|              868 |           0.5   |             30 |
 |             1717 |           0.5   |             30 |
 |             1788 |           0.5   |             30 |
 |               45 |           0.5   |             30 |
@@ -40,5 +40,5 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2048 |           0.6   |             40 |
 |             1322 |           0.6   |             40 |
 |             3639 |           0.62  |             30 |
-|              413 |           0.62  |             30 |
+|              142 |           0.62  |             30 |
 |              179 |           0.62  |             30 |
