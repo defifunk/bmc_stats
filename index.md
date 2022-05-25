@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Wed May 25 15:53:49 UTC 2022
+Last auto update at: Wed May 25 16:16:57 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,8 +11,8 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |             2156 |          0.4199 |             60 |
-|              412 |          0.42   |             40 |
 |             2340 |          0.42   |             40 |
+|              412 |          0.42   |             40 |
 |              414 |          0.42   |             40 |
 |             3731 |          0.4369 |             30 |
 |              674 |          0.44   |             80 |
@@ -21,12 +21,12 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              390 |          0.469  |             40 |
 |              710 |          0.485  |             20 |
 |             3298 |          0.487  |             90 |
-|             1506 |          0.49   |             50 |
 |             2432 |          0.49   |             50 |
-|              209 |          0.5    |             50 |
-|             4307 |          0.5    |             40 |
+|             1506 |          0.49   |             50 |
 |              868 |          0.5    |             40 |
 |             1511 |          0.5    |             40 |
+|             4307 |          0.5    |             40 |
+|              209 |          0.5    |             50 |
 |               45 |          0.5    |             40 |
 |             1717 |          0.5    |             40 |
 |             2550 |          0.5    |             40 |
@@ -40,4 +40,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3332 |          0.548  |             90 |
 |             4413 |          0.55   |             60 |
 |             2406 |          0.55   |           1170 |
-|             2048 |          0.6    |             50 |
+|             1322 |          0.6    |             50 |
