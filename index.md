@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri May 27 17:18:32 UTC 2022
+Last auto update at: Fri May 27 17:44:02 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -16,8 +16,8 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             4428 |          0.411  |            100 |
 |             3731 |          0.4199 |             50 |
 |              412 |          0.42   |             60 |
-|             2340 |          0.42   |             60 |
 |              414 |          0.42   |             60 |
+|             2340 |          0.42   |             60 |
 |              674 |          0.44   |            100 |
 |               45 |          0.45   |             60 |
 |             1445 |          0.455  |            120 |
@@ -28,15 +28,15 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              510 |          0.48   |            100 |
 |             3298 |          0.487  |            110 |
 |             3332 |          0.499  |            110 |
+|             4383 |          0.5    |            100 |
 |              413 |          0.5    |             60 |
 |             2062 |          0.5    |             70 |
 |             2061 |          0.5    |             70 |
-|             2053 |          0.5    |             70 |
 |              179 |          0.5    |             60 |
 |             2057 |          0.5    |             70 |
-|             2056 |          0.5    |             70 |
+|             2053 |          0.5    |             70 |
 |             2055 |          0.5    |             70 |
-|              209 |          0.5    |             70 |
+|              209 |          0.5    |             80 |
 |             4321 |          0.5    |           1190 |
 |             2052 |          0.5    |             70 |
 |             2550 |          0.5    |             60 |
