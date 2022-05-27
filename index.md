@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri May 27 14:46:21 UTC 2022
+Last auto update at: Fri May 27 14:54:22 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -22,23 +22,23 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1445 |          0.455  |            120 |
 |             2432 |          0.46   |             70 |
 |              390 |          0.469  |             60 |
-|              510 |          0.48   |            100 |
 |              508 |          0.48   |            100 |
 |             1506 |          0.48   |             70 |
+|              510 |          0.48   |            100 |
 |             3298 |          0.487  |            110 |
 |             3332 |          0.499  |            110 |
-|             2550 |          0.5    |             60 |
+|              413 |          0.5    |             60 |
 |              868 |          0.5    |             60 |
+|             2056 |          0.5    |             70 |
 |             4321 |          0.5    |           1190 |
 |              209 |          0.5    |             70 |
+|             4383 |          0.5    |            100 |
+|             2045 |          0.5    |             70 |
 |             2062 |          0.5    |             70 |
 |              179 |          0.5    |             60 |
 |             2055 |          0.5    |             70 |
 |             1788 |          0.5    |             60 |
 |             2053 |          0.5    |             70 |
-|             2045 |          0.5    |             70 |
-|             2339 |          0.5    |             60 |
-|             2056 |          0.5    |             70 |
-|             4383 |          0.5    |            100 |
-|              413 |          0.5    |             60 |
+|             2057 |          0.5    |             70 |
 |             2052 |          0.5    |             70 |
+|             2061 |          0.5    |             70 |
