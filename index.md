@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri May 27 03:54:44 UTC 2022
+Last auto update at: Fri May 27 04:27:26 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -15,8 +15,9 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1101 |          0.41   |            360 |
 |             4428 |          0.411  |             90 |
 |             2465 |          0.4111 |             90 |
-|             3731 |          0.4199 |             40 |
+|             3731 |          0.4199 |             50 |
 |             2340 |          0.42   |             60 |
+|             3737 |          0.42   |            100 |
 |              412 |          0.42   |             60 |
 |              414 |          0.42   |             60 |
 |              674 |          0.44   |            100 |
@@ -28,17 +29,16 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1506 |          0.48   |             70 |
 |             3298 |          0.487  |            110 |
 |             3332 |          0.499  |            110 |
+|             2550 |          0.5    |             60 |
 |              868 |          0.5    |             60 |
 |             4321 |          0.5    |           1190 |
 |              209 |          0.5    |             70 |
-|             2053 |          0.5    |             70 |
-|             2062 |          0.5    |             70 |
+|             1788 |          0.5    |             60 |
 |             2055 |          0.5    |             70 |
-|              179 |          0.5    |             60 |
 |             2056 |          0.5    |             70 |
+|              179 |          0.5    |             60 |
 |             2057 |          0.5    |             70 |
 |             2061 |          0.5    |             70 |
-|             2339 |          0.5    |             60 |
-|             1788 |          0.5    |             60 |
+|             2062 |          0.5    |             70 |
 |             4383 |          0.5    |            100 |
 |             2045 |          0.5    |             70 |
