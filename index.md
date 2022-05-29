@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun May 29 21:48:30 UTC 2022
+Last auto update at: Sun May 29 22:35:22 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,7 +11,6 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |              326 |          0.38   |             20 |
-|             3738 |          0.383  |            120 |
 |             3595 |          0.389  |             90 |
 |             2340 |          0.39   |             80 |
 |              414 |          0.4    |             80 |
@@ -25,20 +24,21 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              508 |          0.48   |            120 |
 |              510 |          0.48   |            120 |
 |              413 |          0.5    |             80 |
-|             2061 |          0.5    |             90 |
 |             2550 |          0.5    |             80 |
 |             3187 |          0.5    |             20 |
 |             2160 |          0.5    |             20 |
 |              868 |          0.5    |             80 |
-|             2062 |          0.5    |             90 |
-|              209 |          0.5    |            100 |
-|             2056 |          0.5    |             90 |
 |             2052 |          0.5    |             90 |
-|              179 |          0.5    |             80 |
-|             2057 |          0.5    |             90 |
 |             2053 |          0.5    |             90 |
-|             2339 |          0.5    |             80 |
+|              209 |          0.5    |            100 |
+|              179 |          0.5    |             80 |
+|             2056 |          0.5    |             90 |
+|             2057 |          0.5    |             90 |
+|             2061 |          0.5    |             90 |
 |             2045 |          0.5    |             90 |
+|             2062 |          0.5    |             90 |
 |             2055 |          0.5    |             90 |
+|             2339 |          0.5    |             80 |
 |             3345 |          0.523  |            130 |
 |              513 |          0.545  |            130 |
+|             3185 |          0.55   |             20 |
