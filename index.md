@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun May 29 14:56:33 UTC 2022
+Last auto update at: Sun May 29 15:50:26 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -24,21 +24,21 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              508 |          0.48   |            120 |
 |              510 |          0.48   |            120 |
 |               66 |          0.485  |             90 |
-|             2055 |          0.5    |             90 |
-|             2052 |          0.5    |             90 |
+|              413 |          0.5    |             80 |
 |             2550 |          0.5    |             80 |
 |             3187 |          0.5    |             20 |
 |             2160 |          0.5    |             20 |
 |              868 |          0.5    |             80 |
-|             2053 |          0.5    |             90 |
+|             2052 |          0.5    |             90 |
 |              209 |          0.5    |             90 |
-|             2339 |          0.5    |             80 |
-|             2056 |          0.5    |             90 |
+|             2053 |          0.5    |             90 |
 |              179 |          0.5    |             80 |
+|             2056 |          0.5    |             90 |
 |             2057 |          0.5    |             90 |
 |             2061 |          0.5    |             90 |
-|             2062 |          0.5    |             90 |
 |             2045 |          0.5    |             90 |
-|             4383 |          0.5    |            120 |
-|              413 |          0.5    |             80 |
+|             2062 |          0.5    |             90 |
+|             2055 |          0.5    |             90 |
+|             2339 |          0.5    |             80 |
 |             3345 |          0.523  |            120 |
+|              513 |          0.545  |            120 |
