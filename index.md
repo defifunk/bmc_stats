@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue May 31 20:14:34 UTC 2022
+Last auto update at: Tue May 31 20:37:48 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -22,23 +22,23 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2406 |          0.45   |           1230 |
 |             1445 |          0.455  |            160 |
 |              390 |          0.469  |            100 |
-|              510 |          0.48   |            140 |
 |              508 |          0.48   |            140 |
+|              510 |          0.48   |            140 |
 |               22 |          0.49   |             20 |
 |             2160 |          0.5    |             40 |
 |              209 |          0.5    |            120 |
 |             2056 |          0.5    |            110 |
-|             2062 |          0.5    |            110 |
 |             2055 |          0.5    |            110 |
-|             2045 |          0.5    |            110 |
-|             2057 |          0.5    |            110 |
 |             2052 |          0.5    |            110 |
+|             2057 |          0.5    |            110 |
+|             2062 |          0.5    |            110 |
+|             2045 |          0.5    |            110 |
 |             3345 |          0.523  |            150 |
 |              513 |          0.545  |            150 |
 |             3185 |          0.55   |             40 |
+|             1409 |          0.58   |            120 |
 |             3186 |          0.58   |             40 |
 |             2048 |          0.6    |            110 |
 |             3183 |          0.6    |             40 |
-|             1943 |          0.6    |            140 |
-|              505 |          0.6    |            140 |
 |             3132 |          0.6    |           1230 |
+|             1943 |          0.6    |            140 |
