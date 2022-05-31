@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue May 31 06:59:02 UTC 2022
+Last auto update at: Tue May 31 07:18:06 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,7 +11,6 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |             3595 |          0.38   |            110 |
-|             2257 |          0.3996 |            110 |
 |             3731 |          0.3997 |             10 |
 |             4428 |          0.4    |            130 |
 |             2432 |          0.42   |            110 |
@@ -22,14 +21,14 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              508 |          0.48   |            140 |
 |              510 |          0.48   |            140 |
 |               22 |          0.49   |             20 |
-|             2062 |          0.5    |            110 |
-|             2160 |          0.5    |             30 |
 |              209 |          0.5    |            110 |
-|             2055 |          0.5    |            110 |
-|             2056 |          0.5    |            110 |
-|             2052 |          0.5    |            110 |
-|             2045 |          0.5    |            110 |
 |             2057 |          0.5    |            110 |
+|             2160 |          0.5    |             30 |
+|             2056 |          0.5    |            110 |
+|             2045 |          0.5    |            110 |
+|             2052 |          0.5    |            110 |
+|             2062 |          0.5    |            110 |
+|             2055 |          0.5    |            110 |
 |             3345 |          0.523  |            140 |
 |              513 |          0.545  |            140 |
 |             3185 |          0.55   |             30 |
@@ -42,3 +41,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              459 |          0.6    |             50 |
 |             1322 |          0.6    |            110 |
 |             1383 |          0.64   |            140 |
+|              324 |          0.65   |            120 |
