@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Wed Jun  1 23:56:46 UTC 2022
+Last auto update at: Thu Jun  2 04:18:49 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -20,25 +20,25 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3259 |          0.4511 |            170 |
 |             1445 |          0.455  |            170 |
 |              390 |          0.469  |            110 |
-|              508 |          0.48   |            150 |
-|              510 |          0.48   |            150 |
-|             2057 |          0.5    |            120 |
-|             2160 |          0.5    |             50 |
+|              508 |          0.48   |            160 |
+|              510 |          0.48   |            160 |
+|             2057 |          0.5    |            130 |
+|             2045 |          0.5    |            130 |
+|               48 |          0.5    |             10 |
+|             2056 |          0.5    |            130 |
+|             2055 |          0.5    |            130 |
+|             2052 |          0.5    |            130 |
 |              209 |          0.5    |            130 |
-|             2052 |          0.5    |            120 |
-|             2055 |          0.5    |            120 |
-|               48 |          0.5    |              0 |
-|             2045 |          0.5    |            120 |
-|             2056 |          0.5    |            120 |
-|               46 |          0.51   |              0 |
+|             2160 |          0.5    |             50 |
+|               46 |          0.51   |             10 |
 |             3345 |          0.523  |            160 |
 |              513 |          0.545  |            160 |
 |             3185 |          0.55   |             50 |
 |             1409 |          0.56   |            130 |
 |             3186 |          0.58   |             50 |
 |             2688 |          0.595  |            160 |
+|             1943 |          0.6    |            160 |
 |             3132 |          0.6    |           1250 |
-|              459 |          0.6    |             60 |
-|             3183 |          0.6    |             50 |
 |             1322 |          0.6    |            130 |
-|              505 |          0.6    |            150 |
+|             3183 |          0.6    |             50 |
+|              459 |          0.6    |             70 |
