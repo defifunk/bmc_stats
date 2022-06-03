@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri Jun  3 21:25:10 UTC 2022
+Last auto update at: Fri Jun  3 21:35:29 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -20,25 +20,25 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2907 |           0.46  |           1260 |
 |              390 |           0.469 |            130 |
 |               46 |           0.47  |             20 |
-|              510 |           0.48  |            170 |
 |              508 |           0.48  |            170 |
+|              510 |           0.48  |            170 |
 |              710 |           0.49  |            110 |
-|             2160 |           0.5   |             70 |
-|              209 |           0.5   |            150 |
-|             2055 |           0.5   |            140 |
 |             2052 |           0.5   |            140 |
 |             2057 |           0.5   |            140 |
 |             2056 |           0.5   |            140 |
 |             2045 |           0.5   |            140 |
+|             2055 |           0.5   |            140 |
+|              209 |           0.5   |            150 |
+|             2160 |           0.5   |             70 |
 |             3345 |           0.523 |            180 |
 |              513 |           0.545 |            180 |
 |             3924 |           0.55  |             80 |
 |             3185 |           0.55  |             70 |
 |             3186 |           0.58  |             70 |
 |             2688 |           0.595 |            170 |
-|             3132 |           0.6   |           1260 |
-|             1322 |           0.6   |            140 |
-|             1943 |           0.6   |            170 |
-|             3183 |           0.6   |             70 |
 |              505 |           0.6   |            170 |
+|             1322 |           0.6   |            140 |
 |             2048 |           0.6   |            140 |
+|              459 |           0.6   |             80 |
+|             3183 |           0.6   |             70 |
+|             3132 |           0.6   |           1260 |
