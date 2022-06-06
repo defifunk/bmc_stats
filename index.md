@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Mon Jun  6 11:34:43 UTC 2022
+Last auto update at: Mon Jun  6 11:44:57 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -14,16 +14,16 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             4444 |          0.3879 |             20 |
 |              630 |          0.39   |            200 |
 |             2432 |          0.4    |            170 |
-|             1768 |          0.4    |             20 |
 |             2274 |          0.4    |            180 |
-|             1581 |          0.4    |            200 |
-|              746 |          0.4    |            180 |
+|             1768 |          0.4    |             20 |
 |             2550 |          0.4    |            160 |
+|              746 |          0.4    |            180 |
 |             2811 |          0.4    |            170 |
+|             1581 |          0.4    |            200 |
 |             4413 |          0.415  |            180 |
-|             3132 |          0.42   |              0 |
 |             1372 |          0.42   |            170 |
 |             1506 |          0.42   |            170 |
+|             3132 |          0.42   |              0 |
 |             3114 |          0.44   |              0 |
 |             2160 |          0.445  |             20 |
 |               48 |          0.45   |             50 |
@@ -34,11 +34,11 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              390 |          0.469  |            160 |
 |               46 |          0.47   |             50 |
 |             3185 |          0.47   |             20 |
-|              508 |          0.48   |            200 |
-|             2661 |          0.48   |              0 |
 |              510 |          0.48   |            200 |
+|             2661 |          0.48   |              0 |
+|              508 |          0.48   |            200 |
 |             4219 |          0.49   |           1290 |
 |             2059 |          0.499  |            110 |
-|             2045 |          0.5    |            170 |
-|             1943 |          0.5    |            200 |
-|             2055 |          0.5    |            170 |
+|             4017 |          0.5    |            200 |
+|             2056 |          0.5    |            170 |
+|              209 |          0.5    |            170 |
