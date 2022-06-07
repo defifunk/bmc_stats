@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Tue Jun  7 20:34:30 UTC 2022
+Last auto update at: Tue Jun  7 20:45:39 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -16,14 +16,15 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             4444 |           0.39  |             30 |
 |              630 |           0.39  |            210 |
 |             1489 |           0.397 |             40 |
-|             2274 |           0.4   |            190 |
+|              332 |           0.4   |            200 |
+|             2550 |           0.4   |            170 |
+|             1581 |           0.4   |            220 |
 |             2432 |           0.4   |            190 |
+|             1768 |           0.4   |             30 |
 |              746 |           0.4   |            190 |
 |             2932 |           0.4   |            210 |
 |             2318 |           0.4   |            190 |
-|             2550 |           0.4   |            170 |
-|             1768 |           0.4   |             30 |
-|             1581 |           0.4   |            220 |
+|             2274 |           0.4   |            190 |
 |             4413 |           0.415 |              0 |
 |             1372 |           0.42  |            190 |
 |             1506 |           0.42  |            190 |
@@ -37,8 +38,7 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1445 |           0.455 |            230 |
 |             2907 |           0.46  |           1300 |
 |              390 |           0.469 |            170 |
-|             3185 |           0.47  |             10 |
 |             2332 |           0.47  |             20 |
-|              508 |           0.48  |            210 |
+|             3185 |           0.47  |             10 |
 |             2661 |           0.48  |              0 |
 |              510 |           0.48  |            210 |
