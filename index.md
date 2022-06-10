@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri Jun 10 11:55:02 UTC 2022
+Last auto update at: Fri Jun 10 13:57:37 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,22 +11,22 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |             4383 |           0.345 |            240 |
-|               75 |           0.35  |             20 |
-|             1489 |           0.35  |             60 |
+|             1489 |           0.35  |             70 |
 |             2550 |           0.35  |            200 |
 |              630 |           0.36  |            240 |
 |             2932 |           0.375 |            240 |
 |             2267 |           0.38  |            220 |
 |             4413 |           0.395 |             30 |
-|             3595 |           0.4   |             30 |
-|              746 |           0.4   |            220 |
+|              150 |           0.4   |             90 |
 |             2318 |           0.4   |            220 |
+|              746 |           0.4   |            220 |
+|             3595 |           0.4   |             40 |
 |             1768 |           0.4   |             60 |
 |             2274 |           0.4   |            220 |
-|              150 |           0.4   |             90 |
 |             1372 |           0.42  |            210 |
 |             2287 |           0.425 |             20 |
 |               48 |           0.43  |             90 |
+|             3950 |           0.44  |            250 |
 |             1607 |           0.45  |             60 |
 |               46 |           0.45  |             90 |
 |             3358 |           0.45  |            220 |
@@ -40,4 +40,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              508 |           0.48  |            240 |
 |             4219 |           0.49  |             30 |
 |             1409 |           0.49  |             30 |
-|             1943 |           0.5   |            240 |
+|             3741 |           0.5   |            240 |
