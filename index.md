@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sat Jun 11 05:10:50 UTC 2022
+Last auto update at: Sat Jun 11 05:44:22 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -35,10 +35,10 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              510 |           0.48  |            250 |
 |             4219 |           0.49  |             40 |
 |             2045 |           0.5   |            220 |
-|             3494 |           0.5   |            240 |
+|             1182 |           0.5   |            180 |
 |             3741 |           0.5   |            250 |
 |             1943 |           0.5   |            250 |
-|             2057 |           0.5   |            220 |
 |             2056 |           0.5   |            220 |
+|             2055 |           0.5   |            220 |
 |              209 |           0.5   |            220 |
 |             2052 |           0.5   |            220 |
