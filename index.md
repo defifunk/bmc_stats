@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun Jun 12 13:13:28 UTC 2022
+Last auto update at: Sun Jun 12 14:10:26 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -21,12 +21,12 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1372 |           0.42  |            230 |
 |               48 |           0.43  |            110 |
 |             3950 |           0.44  |            270 |
-|             3358 |           0.45  |            240 |
-|             2661 |           0.45  |             50 |
-|             1607 |           0.45  |             80 |
-|             1428 |           0.45  |             80 |
 |             3114 |           0.45  |             50 |
 |               46 |           0.45  |            110 |
+|             1607 |           0.45  |             80 |
+|             3358 |           0.45  |            240 |
+|             1428 |           0.45  |             80 |
+|             2661 |           0.45  |             50 |
 |             1445 |           0.455 |            280 |
 |             2907 |           0.46  |           1350 |
 |              390 |           0.469 |            220 |
@@ -35,10 +35,10 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              508 |           0.48  |            260 |
 |             4219 |           0.49  |             50 |
 |             1182 |           0.5   |            190 |
-|             2045 |           0.5   |            230 |
-|             2057 |           0.5   |            230 |
-|             3741 |           0.5   |            260 |
+|             2056 |           0.5   |            230 |
 |              209 |           0.5   |            230 |
 |              953 |           0.5   |            270 |
-|             2056 |           0.5   |            230 |
+|             2045 |           0.5   |            230 |
+|             3494 |           0.5   |            260 |
 |             2055 |           0.5   |            230 |
+|             3741 |           0.5   |            260 |
