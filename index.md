@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sun Jun 12 07:45:41 UTC 2022
+Last auto update at: Sun Jun 12 08:14:12 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -22,23 +22,23 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3950 |           0.44  |            270 |
 |             3114 |           0.45  |             50 |
 |               46 |           0.45  |            110 |
-|             3358 |           0.45  |            240 |
-|             1607 |           0.45  |             80 |
 |             1428 |           0.45  |             80 |
 |             2661 |           0.45  |             50 |
+|             3358 |           0.45  |            240 |
+|             1607 |           0.45  |             80 |
 |             1445 |           0.455 |            270 |
 |             2907 |           0.46  |           1350 |
 |              390 |           0.469 |            220 |
 |             3185 |           0.47  |             50 |
-|              510 |           0.48  |            260 |
 |              508 |           0.48  |            260 |
+|              510 |           0.48  |            260 |
 |             4219 |           0.49  |             50 |
-|             3405 |           0.5   |            270 |
-|              953 |           0.5   |            270 |
+|              209 |           0.5   |            230 |
+|             2045 |           0.5   |            230 |
 |             3494 |           0.5   |            250 |
 |             1182 |           0.5   |            190 |
+|             3741 |           0.5   |            260 |
 |             2057 |           0.5   |            230 |
 |             2056 |           0.5   |            230 |
 |             2055 |           0.5   |            230 |
-|              209 |           0.5   |            230 |
-|             2052 |           0.5   |            230 |
+|              953 |           0.5   |            270 |
