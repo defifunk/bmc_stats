@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Mon Jun 13 14:31:47 UTC 2022
+Last auto update at: Mon Jun 13 14:55:57 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,6 +11,7 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |              589 |           0.35  |            270 |
+|             2873 |           0.35  |            270 |
 |             3219 |           0.36  |             20 |
 |             3237 |           0.36  |            360 |
 |              336 |           0.365 |             40 |
@@ -27,8 +28,10 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2432 |           0.42  |            240 |
 |             4413 |           0.42  |             60 |
 |               48 |           0.43  |            120 |
+|             2501 |           0.44  |              0 |
 |               46 |           0.45  |            120 |
 |             3114 |           0.45  |             60 |
+|             4254 |           0.45  |             10 |
 |             3358 |           0.45  |            250 |
 |             2661 |           0.45  |             60 |
 |             1445 |           0.455 |            290 |
@@ -38,7 +41,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |               20 |           0.48  |             60 |
 |              508 |           0.48  |            270 |
 |              510 |           0.48  |            270 |
-|             3494 |           0.5   |            270 |
-|             3741 |           0.5   |            270 |
-|             2036 |           0.5   |            470 |
-|             2041 |           0.5   |            470 |
+|             2045 |           0.5   |            240 |
