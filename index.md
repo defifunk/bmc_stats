@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Thu Jun 16 15:56:56 UTC 2022
+Last auto update at: Thu Jun 16 16:17:25 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -13,6 +13,7 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3950 |           0.4   |            320 |
 |              746 |           0.4   |            280 |
 |             2274 |           0.4   |            280 |
+|              332 |           0.4   |             70 |
 |             2318 |           0.4   |            280 |
 |              150 |           0.4   |            150 |
 |             1085 |           0.4   |            390 |
@@ -21,7 +22,6 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2432 |           0.42  |            270 |
 |             3358 |           0.45  |            280 |
 |             1445 |           0.455 |            320 |
-|             2907 |           0.46  |           1390 |
 |              390 |           0.469 |            260 |
 |              508 |           0.48  |            300 |
 |             3114 |           0.48  |             90 |
@@ -31,8 +31,8 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1182 |           0.5   |            240 |
 |             3741 |           0.5   |            300 |
 |              953 |           0.5   |            310 |
-|             3405 |           0.5   |            310 |
 |             2057 |           0.5   |            270 |
+|             3405 |           0.5   |            310 |
 |             2056 |           0.5   |            270 |
 |             2055 |           0.5   |            270 |
 |             2052 |           0.5   |            270 |
@@ -41,4 +41,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3183 |           0.51  |             90 |
 |             3345 |           0.523 |            300 |
 |              513 |           0.545 |            300 |
-|             2904 |           0.58  |           1390 |
+|             3186 |           0.58  |             90 |
