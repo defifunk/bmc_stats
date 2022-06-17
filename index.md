@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri Jun 17 05:45:34 UTC 2022
+Last auto update at: Fri Jun 17 06:15:16 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -11,12 +11,11 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
 |             2359 |          0.3999 |              0 |
-|             3950 |          0.4    |            320 |
 |              746 |          0.4    |            290 |
 |             2274 |          0.4    |            290 |
+|              332 |          0.4    |             80 |
 |             2318 |          0.4    |            290 |
 |              150 |          0.4    |            160 |
-|              332 |          0.4    |             70 |
 |             1085 |          0.4    |            400 |
 |               48 |          0.41   |            160 |
 |              710 |          0.419  |             40 |
@@ -28,17 +27,18 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3114 |          0.48   |             90 |
 |              510 |          0.48   |            310 |
 |             4254 |          0.49   |             50 |
+|             2661 |          0.49   |             90 |
 |             2501 |          0.49   |             40 |
 |             2332 |          0.49   |            120 |
-|             2661 |          0.49   |             90 |
-|             3494 |          0.5    |            300 |
-|             1182 |          0.5    |            240 |
-|              953 |          0.5    |            310 |
-|             3741 |          0.5    |            310 |
-|             3405 |          0.5    |            310 |
-|             2057 |          0.5    |            280 |
-|             2056 |          0.5    |            280 |
-|             2055 |          0.5    |            280 |
 |             2052 |          0.5    |            280 |
+|             2055 |          0.5    |            280 |
+|             2056 |          0.5    |            280 |
+|             3405 |          0.5    |            310 |
 |             2045 |          0.5    |            280 |
+|             3741 |          0.5    |            310 |
+|              953 |          0.5    |            310 |
+|             1182 |          0.5    |            240 |
+|             3494 |          0.5    |            300 |
+|             2057 |          0.5    |            280 |
 |             3183 |          0.51   |            100 |
+|             1607 |          0.544  |            120 |
