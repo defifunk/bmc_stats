@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri Jun 17 22:56:40 UTC 2022
+Last auto update at: Fri Jun 17 23:11:54 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -23,17 +23,17 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3114 |           0.48  |            100 |
 |              510 |           0.48  |            310 |
 |             4254 |           0.48  |             50 |
-|             2661 |           0.49  |            100 |
 |             2332 |           0.49  |            120 |
-|             3741 |           0.5   |            310 |
+|             2661 |           0.49  |            100 |
 |             2052 |           0.5   |            280 |
-|             3405 |           0.5   |            320 |
 |             2055 |           0.5   |            280 |
-|             3494 |           0.5   |            310 |
-|             2057 |           0.5   |            280 |
-|             2045 |           0.5   |            280 |
-|             1182 |           0.5   |            250 |
+|             3405 |           0.5   |            320 |
 |             2056 |           0.5   |            280 |
+|             3741 |           0.5   |            310 |
+|             2045 |           0.5   |            280 |
+|             3494 |           0.5   |            310 |
+|             1182 |           0.5   |            250 |
+|             2057 |           0.5   |            280 |
 |             3183 |           0.51  |            110 |
 |             1607 |           0.544 |            130 |
 |             1428 |           0.549 |            130 |
@@ -41,4 +41,4 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             2904 |           0.58  |           1400 |
 |             3186 |           0.58  |            110 |
 |             3898 |           0.6   |           1400 |
-|             2048 |           0.6   |            280 |
+|              505 |           0.6   |            310 |
