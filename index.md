@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sat Jun 18 15:11:08 UTC 2022
+Last auto update at: Sat Jun 18 15:54:19 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -23,22 +23,22 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3114 |           0.48  |            110 |
 |              510 |           0.48  |            320 |
 |             4254 |           0.48  |              0 |
-|             2332 |           0.49  |            130 |
 |             2661 |           0.49  |            110 |
-|             2052 |           0.5   |            290 |
-|             2055 |           0.5   |            290 |
-|             3405 |           0.5   |            330 |
-|             2056 |           0.5   |            290 |
+|             2332 |           0.49  |            130 |
 |             1182 |           0.5   |            260 |
+|             2052 |           0.5   |            290 |
+|             3405 |           0.5   |            330 |
+|             2055 |           0.5   |            290 |
+|             3494 |           0.5   |            320 |
+|             2057 |           0.5   |            290 |
 |             2059 |           0.5   |              0 |
 |             2045 |           0.5   |            290 |
-|             3494 |           0.5   |            320 |
 |             3741 |           0.5   |            320 |
-|             2057 |           0.5   |            290 |
+|             2056 |           0.5   |            290 |
 |             3183 |           0.51  |            110 |
 |             1607 |           0.544 |            140 |
 |             1428 |           0.549 |            140 |
 |             2904 |           0.58  |           1410 |
 |             3186 |           0.58  |            110 |
-|             3898 |           0.6   |           1410 |
-|             1739 |           0.6   |            330 |
+|              459 |           0.6   |             10 |
+|             2048 |           0.6   |            290 |
