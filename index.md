@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sat Jun 25 21:10:04 UTC 2022
+Last auto update at: Sat Jun 25 22:30:13 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -20,17 +20,18 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |              508 |          0.48   |            390 |
 |             1310 |          0.485  |            170 |
 |             3187 |          0.4956 |            190 |
+|              350 |          0.5    |              0 |
 |             2263 |          0.5    |            370 |
 |             2261 |          0.5    |            370 |
 |             2045 |          0.5    |            360 |
 |             2052 |          0.5    |            360 |
+|             1182 |          0.5    |             50 |
+|             1285 |          0.5    |            370 |
+|             2055 |          0.5    |            360 |
+|             2056 |          0.5    |            360 |
+|             2057 |          0.5    |            360 |
 |             3494 |          0.5    |            390 |
 |             3356 |          0.5    |            370 |
-|             1285 |          0.5    |            370 |
-|             2057 |          0.5    |            360 |
-|             2056 |          0.5    |            360 |
-|             1182 |          0.5    |             50 |
-|             2055 |          0.5    |            360 |
 |             3183 |          0.51   |            190 |
 |             4219 |          0.5235 |            190 |
 |             4122 |          0.531  |             30 |
@@ -41,4 +42,3 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3708 |          0.5667 |            400 |
 |             3689 |          0.5699 |            190 |
 |             3188 |          0.5711 |            190 |
-|             3186 |          0.58   |            190 |
