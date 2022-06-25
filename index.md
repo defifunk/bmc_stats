@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Fri Jun 24 23:55:56 UTC 2022
+Last auto update at: Sat Jun 25 00:57:27 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -21,24 +21,24 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             1310 |           0.485 |            160 |
 |             2263 |           0.5   |            360 |
 |             2261 |           0.5   |            360 |
-|             2045 |           0.5   |            350 |
 |             3494 |           0.5   |            380 |
-|             2052 |           0.5   |            350 |
-|             1182 |           0.5   |             50 |
+|             2045 |           0.5   |            360 |
+|             2052 |           0.5   |            360 |
 |             3356 |           0.5   |            360 |
 |             1285 |           0.5   |            360 |
-|             2057 |           0.5   |            350 |
-|             2055 |           0.5   |            350 |
-|             2056 |           0.5   |            350 |
+|             2055 |           0.5   |            360 |
+|             1182 |           0.5   |             50 |
+|             2057 |           0.5   |            360 |
+|             2056 |           0.5   |            360 |
 |             3183 |           0.51  |            180 |
+|             4122 |           0.531 |             20 |
 |             1607 |           0.544 |             20 |
 |              350 |           0.548 |           1480 |
 |             1428 |           0.549 |             20 |
-|             3742 |           0.549 |             30 |
+|             3742 |           0.549 |             40 |
 |             3186 |           0.58  |            180 |
-|              505 |           0.6   |            380 |
+|             4121 |           0.59  |             20 |
 |             3898 |           0.6   |           1480 |
+|              505 |           0.6   |            380 |
 |             1383 |           0.64  |            390 |
-|             2270 |           0.65  |            360 |
-|             2265 |           0.65  |            360 |
 |              324 |           0.65  |            360 |
