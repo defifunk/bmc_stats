@@ -3,21 +3,20 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Sat Jun 25 23:54:51 UTC 2022
+Last auto update at: Sun Jun 26 04:04:20 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|             3472 |          0.449  |            390 |
+|             3472 |          0.449  |            400 |
 |             3358 |          0.45   |            370 |
-|             1422 |          0.4599 |              0 |
 |             3678 |          0.468  |             10 |
 |              390 |          0.469  |             10 |
 |             2024 |          0.475  |            130 |
-|              510 |          0.48   |            390 |
-|              508 |          0.48   |            390 |
+|              510 |          0.48   |            400 |
+|              508 |          0.48   |            400 |
 |             1310 |          0.485  |            170 |
 |             3187 |          0.4956 |            190 |
 |             2263 |          0.5    |            370 |
@@ -32,13 +31,14 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |             3185 |          0.5346 |            190 |
 |             1607 |          0.544  |             30 |
 |             1428 |          0.549  |             30 |
-|             3742 |          0.549  |             40 |
+|             3742 |          0.549  |             50 |
 |             3708 |          0.5667 |            400 |
 |             3689 |          0.5699 |            190 |
 |             3188 |          0.5711 |            190 |
 |             3186 |          0.58   |            190 |
 |             4121 |          0.59   |             30 |
 |             1943 |          0.599  |            400 |
-|              505 |          0.6    |            390 |
+|              505 |          0.6    |            400 |
 |             3898 |          0.6    |           1490 |
 |             1383 |          0.64   |            400 |
+|              324 |          0.65   |            380 |
