@@ -3,14 +3,14 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Wed Aug 10 18:41:11 UTC 2022
+Last auto update at: Wed Aug 10 18:54:57 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
 
 |   ultra_miner_id |   ETH_buy_price |   hash_rewards |
 |-----------------:|----------------:|---------------:|
-|             1748 |          0.2839 |           1340 |
+|             1748 |          0.2841 |           1340 |
 |             1885 |          0.418  |            830 |
 |             2243 |          0.419  |            690 |
 |             2332 |          0.42   |            660 |
