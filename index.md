@@ -3,7 +3,7 @@ Here is a list of "Buy Now" listings from Opensea floor !
 
 Note: This is an unofficial site ! NFA DYOR
 
-Last auto update at: Thu Oct 27 07:28:06 UTC 2022
+Last auto update at: Thu Oct 27 07:40:18 UTC 2022
 
 Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/defifunk/BMC-Overview-Dashboard)
 
@@ -12,21 +12,21 @@ Bonus: Do check out a more advanced [BMC-Overview-Dashboard](https://dune.com/de
 |-----------------:|----------------:|---------------:|
 |             1564 |          0.3287 |           2720 |
 |             1123 |          0.3288 |           1190 |
-|             4443 |          0.3289 |           1600 |
 |             3865 |          0.3289 |           1600 |
+|             4443 |          0.3289 |           1600 |
 |             2967 |          0.33   |           1630 |
 |             1069 |          0.339  |           1630 |
 |              910 |          0.343  |           1080 |
 |              911 |          0.3431 |           1080 |
 |             3770 |          0.344  |           1630 |
-|             3438 |          0.35   |           1740 |
-|              913 |          0.35   |           1080 |
-|              916 |          0.35   |           1080 |
-|             2968 |          0.35   |           1630 |
 |             2003 |          0.35   |           2520 |
-|              912 |          0.351  |           1080 |
+|             3438 |          0.35   |           1740 |
+|             2968 |          0.35   |           1630 |
+|              916 |          0.35   |           1080 |
+|              913 |          0.35   |           1080 |
 |             3772 |          0.351  |           2720 |
-|             1538 |          0.4    |           1630 |
-|              914 |          0.4    |           1080 |
-|             1371 |          0.4    |            870 |
+|              912 |          0.351  |           1080 |
 |             1433 |          0.4    |           1610 |
+|             2406 |          0.4    |            980 |
+|             3435 |          0.4    |            980 |
+|             1538 |          0.4    |           1630 |
